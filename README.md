@@ -13,6 +13,7 @@ Desarrollar un programa en Python que utilice estructuras condicionales para det
 - Visual Studio Code
 - Git
 - GitHub
+- GitLab
 
 ## Funcionamiento
 El programa utiliza dos variables principales:
