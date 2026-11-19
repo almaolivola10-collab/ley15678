@@ -13,6 +13,7 @@ Desarrollar un programa en Python que utilice estructuras condicionales para det
 - Visual Studio Code
 - Git
 - GitHub
+- GitLab
 
 ## Funcionamiento
 El programa utiliza dos variables principales:
@@ -40,7 +41,7 @@ Según los valores de estas variables, el sistema muestra tres posibles respuest
 4. Observar el mensaje correspondiente según las variables configuradas.
 
 ## Autor
-Nombre: [TU APELLIDO Y NOMBRE]
+Nombre: [Alma Olivola]
 
 Curso: 5° Año
 
