@@ -40,7 +40,7 @@ Según los valores de estas variables, el sistema muestra tres posibles respuest
 4. Observar el mensaje correspondiente según las variables configuradas.
 
 ## Autor
-Nombre: [TU APELLIDO Y NOMBRE]
+Nombre: [Alma Olivola]
 
 Curso: 5° Año
 
